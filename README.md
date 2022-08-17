@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @edwism
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @edwism
+- 👀 I'm interested in Html, Css, JavaScript, React, Nodsjs
+- 🌱 I am currently learning these programming languages
+- 💞️ I seek to collaborate in what I can given my experience
+- 📫 How to contact me edwism@gmail.com
 
 <!---
 edwism/edwism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
